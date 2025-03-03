@@ -53,6 +53,14 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.sp
 import com.example.affirmations.data.Datasource
 
+/*
+* Name: Võ Anh Khoa
+* ID: 21110046
+* Class: 02FIE - Tuesday Afternoon
+* Date: 25/2/2025
+* Assignment 2: Create an Affirmations app
+* */
+
 class MainActivity : ComponentActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
